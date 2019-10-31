@@ -1,4 +1,5 @@
-trop
 World
 of
 Algora
+
+Мир Алгоры. 
